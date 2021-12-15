@@ -1,0 +1,97 @@
+.pricingTitle, .enterpriseTitle {
+    font-size: 24px;
+    font-weight: 600;
+    color: #22343D;
+    line-height: 36px;
+    margin-top: 50px;
+    margin-bottom: 32px;
+}
+
+.pricingSubtitle, .enterpriseSubtitle, .pricingProductsSubtitle, .questionsSubtitle {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #22343D;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.pricingDesc, .enterpriseDesc, .questionsDesc {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #22343D;
+    margin-bottom: 49px;
+    text-align: center;
+}
+
+.enterpriseTitle {
+    margin-bottom: 16px;
+}
+
+.enterpriseSubtitle {
+    margin-bottom: 8px;
+    font-size: 34px;
+}
+
+.enterpriseDesc {
+    margin-bottom: 32px;
+}
+
+.pricingProductsSubtitle {
+    margin-bottom: 80px;
+    font-size: 34px;
+    text-align: center;
+}
+
+.pricingList {
+    margin-bottom: 32px;
+    margin-left: 0;
+    margin-right: 64px;
+}
+
+.pricingListTitle {
+    display: flex;
+    align-items: center;
+    overflow-y: hidden;
+    margin-bottom: 16px;
+}
+
+.pricingListSubtitle {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-left: 14px;
+}
+
+.pricingListTitle img {
+    overflow-y: hidden;
+}
+
+.pricingListDesc {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.questionsBox {
+    margin-bottom: 150px;
+}
+
+.questionsSubtitle {
+    margin-bottom: 8px;
+}
+
+.questionsDesc {
+    margin-bottom: 51px;
+}
+
+.questionsListDesc {
+    font-size: 16px;
+    font-weight: 400;
+    color: #22343D;
+    line-height: 24px;
+    margin-top: -8px;
+    padding-left: 0;
+    margin-bottom: 24px;
+}
